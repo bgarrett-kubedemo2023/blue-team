@@ -20,7 +20,7 @@ jenkins:
       - key: "GITHUB_APP"
         value: "${GITHUB_APP}"
   quietPeriod: 0
-  systemMessage: 'Jenkins configured using CloudBees CI CasC v1'
+  systemMessage: 'Jenkins configured using CloudBees CI CasC v2'
 globalCloudBeesPipelineTemplateCatalog:
   catalogs:
   - branchOrTag: "main"
